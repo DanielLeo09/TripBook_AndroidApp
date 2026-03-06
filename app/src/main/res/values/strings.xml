@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grade Calculator</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="btn_import">Choose Excel File (.xlsx)</string>
+    <string name="btn_add">Add Student</string>
+    <string name="btn_calculate">Calculate Grades</string>
+    <string name="btn_export">Export (.xlsx)</string>
+    <string name="btn_clear">Clear All</string>
+    <string name="hint_name">Student Name</string>
+    <string name="hint_mark">Mark (0 – 100)</string>
+    <string name="empty_state">No students yet.\nImport an Excel file or add students manually.</string>
+</resources>
